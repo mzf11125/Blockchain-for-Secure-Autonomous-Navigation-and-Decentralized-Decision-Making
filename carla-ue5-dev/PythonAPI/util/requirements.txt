@@ -1,0 +1,5 @@
+numpy<2.0,>=1.24.4
+psutil
+py-cpuinfo
+pygame
+python-tr

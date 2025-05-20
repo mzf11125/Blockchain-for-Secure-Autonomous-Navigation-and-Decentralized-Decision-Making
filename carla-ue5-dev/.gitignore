@@ -1,0 +1,17 @@
+.vs/
+.vscode/
+.cache/
+__pycache__/
+
+Build/
+Install/
+Doxygen/
+Dist/
+Temp/
+out/
+
+CMakeSettings.json
+
+.clangd
+
+Help.md
